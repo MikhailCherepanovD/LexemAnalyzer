@@ -2,7 +2,7 @@
 
 #### Available tokens:
 
-!()[https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/Tokens.png]
+![](https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/Tokens.png)
 
 ## To install
 
@@ -29,9 +29,9 @@ make
 After this you will recieve  **output.md**  file containing table of token types.
 Like this:
 
-!()[https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/output.png]
+![](https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/output.png)
 
 ## Documentation on Russian language:
 
-(here)[https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/Documentation.pdf]
+[here](https://github.com/MikhailCherepanovD/LexemAnalyzer/blob/master/GitHub%20Resources/Documentation.pdf)
 
