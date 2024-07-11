@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLexicalAnalyzer.a CMakeFiles/LexicalAnalyzer.dir/LexicalAnalyzer.cpp.o
+/usr/bin/ranlib libLexicalAnalyzer.a

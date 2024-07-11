@@ -1,0 +1,4 @@
+/home/mikhail/Разработка/6_sem/MathLog/Lab1LexemAnilizerCmake/m/CMakeFiles/rebuild_cache.dir
+/home/mikhail/Разработка/6_sem/MathLog/Lab1LexemAnilizerCmake/m/CMakeFiles/edit_cache.dir
+/home/mikhail/Разработка/6_sem/MathLog/Lab1LexemAnilizerCmake/m/CMakeFiles/main.dir
+/home/mikhail/Разработка/6_sem/MathLog/Lab1LexemAnilizerCmake/m/CMakeFiles/LexicalAnalyzer.dir

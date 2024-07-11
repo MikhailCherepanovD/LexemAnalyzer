@@ -97,7 +97,7 @@ int main() {
     LexicalAnalyzer LA;
     
 
-    string test_str=ReadFile("input1.txt");
+    string test_str=ReadFile("input.txt");
     cout<<test_str<<endl;
     vector<pair<string,string>>  vp=LA.Analyse(test_str);
     vector<int> order=LA.GetOrderTypes(vp);

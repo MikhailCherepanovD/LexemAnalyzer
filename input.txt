@@ -1,0 +1,9 @@
+a:=100
+b:=1000
+while a<a1 do
+    a1:=10	
+    a==b
+    b1==a1 #compare operator
+do
+b:= 67.9 #something
+while a>b;
